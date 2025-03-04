@@ -20,7 +20,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🔨 Moderating ARP", "🎀 Looking over ARP", "🎨 Designing shark's office",];
+const statusMessages = ["🦺 Keeping ARP Safe", "💻 Make sure to follow all regulations", "🎉 Official Opening of ARP",];
 const statusTypes = [ 'online', 'online', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
